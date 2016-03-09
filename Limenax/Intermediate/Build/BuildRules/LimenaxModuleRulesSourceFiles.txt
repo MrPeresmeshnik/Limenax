@@ -405,6 +405,7 @@ C:\Program Files\Epic Games\4.9\Engine\Plugins\Developer\SubversionSourceControl
 C:\Program Files\Epic Games\4.9\Engine\Plugins\Developer\UObjectPlugin\Source\UObjectPlugin\UObjectPlugin.Build.cs
 C:\Program Files\Epic Games\4.9\Engine\Plugins\Developer\VisualStudioSourceCodeAccess\Source\VisualStudioSourceCodeAccess\VisualStudioSourceCodeAccess.Build.cs
 C:\Program Files\Epic Games\4.9\Engine\Plugins\Developer\XCodeSourceCodeAccess\Source\XCodeSourceCodeAccess\XCodeSourceCodeAccess.Build.cs
+C:\Program Files\Epic Games\4.9\Engine\Plugins\DialogueSystem\Source\DialogueSystem\DialogueSystem.Build.cs
 C:\Program Files\Epic Games\4.9\Engine\Plugins\Editor\EpicSurvey\Source\EpicSurvey\EpicSurvey.Build.cs
 C:\Program Files\Epic Games\4.9\Engine\Plugins\Editor\MacGraphicsSwitching\Source\MacGraphicsSwitching\MacGraphicsSwitching.Build.cs
 C:\Program Files\Epic Games\4.9\Engine\Plugins\Editor\PluginBrowser\Source\PluginBrowser\PluginBrowser.Build.cs
